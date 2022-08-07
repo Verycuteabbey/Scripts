@@ -1,5 +1,8 @@
 # 说明
-**Warning:**
+
+[English](https://github.com/Verycuteabbey/Scripts/blob/main/README.md)
+
+**提醒:**
 
 **所有脚本为 Fallen_VCA#6890 所编写 | 版权为 © 2022 The Mystery Team 所有**
 
