@@ -1,4 +1,7 @@
 # Description
+
+[简体中文](https://github.com/Verycuteabbey/Scripts/blob/main/README_CN.md)
+
 **Warning:**
 
 **All script compiled by Fallen_VCA#6890 | Copyright © 2022 The Mystery Team**
