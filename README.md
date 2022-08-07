@@ -6,7 +6,11 @@
 
 **All script compiled by Fallen_VCA#6890 | Copyright © 2022 The Mystery Team**
 
-Here you can use `loadstring()` to load the script like this:
+## How to use?
+
+First, you need to the script content and have a look, there are have comments for uses (If you don't know)
+
+And, use `loadstring()` to load the script like this:
 ```lua
 loadstring(game:HttpGet("https://raw.example.com/114514"))();
 ```
