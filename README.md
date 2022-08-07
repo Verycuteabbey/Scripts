@@ -1,4 +1,4 @@
-# Discription
+# Description
 **Warning: All script compiled by Fallen_VCA#6890 | Copyright © 2022 The Mystery Team**
 Here you can use `loadstring()` to load the script like this:
 ```lua
