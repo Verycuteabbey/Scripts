@@ -8,7 +8,7 @@
 
 ### How to use?
 
-First, you need to the script content and have a look, there are have comments for uses (If you don't know)
+First, you need goto the script content and have a look, there are have comments for uses (If you don't know)
 
 And, use `loadstring()` to load the script like this:
 ```lua
