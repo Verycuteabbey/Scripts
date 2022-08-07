@@ -29,4 +29,4 @@ QQ: 487313236
 
 1. mengmengyujie@hotmail.com
 
-2. 487313236@qq.com (Not recommended)
+2. 487313236@qq.com (不推荐)
