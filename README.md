@@ -2,11 +2,11 @@
 
 [简体中文](https://github.com/Verycuteabbey/Scripts/blob/main/README_CN.md)
 
-**Warning:**
+### Warning
 
 **All script compiled by Fallen_VCA#6890 | Copyright © 2022 The Mystery Team**
 
-## How to use?
+### How to use?
 
 First, you need to the script content and have a look, there are have comments for uses (If you don't know)
 
