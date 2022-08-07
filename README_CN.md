@@ -2,11 +2,15 @@
 
 [English](https://github.com/Verycuteabbey/Scripts/blob/main/README.md)
 
-**提醒:**
+### 提醒
 
 **所有脚本为 Fallen_VCA#6890 所编写 | 版权为 © 2022 The Mystery Team 所有**
 
-在这里你可以使用 `loadstring()` 来读取脚本，就像下面这样:
+### 我该如何使用？
+
+首先，你需要到脚本内容去查看，那里有使用说明（在不知道如何用的情况下）
+
+然后使用 `loadstring()` 来读取脚本，就像下面这样:
 ```lua
 loadstring(game:HttpGet("https://raw.example.com/114514"))();
 ```
