@@ -7,7 +7,7 @@ Here you can use `loadstring()` to load the script like this:
 ```lua
 loadstring(game:HttpGet("https://raw.example.com/114514"))();
 ```
-If nothing happens, you can use this to catch the errors like this:
+If nothing happens, you can use this to catch errors like this:
 ```lua
 local Lua = loadstring(game:HttpGet("https://raw.example.com/114514"));
 local IsSuccessed, ReturnInfo = pcall(Lua);
