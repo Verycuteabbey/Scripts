@@ -7,7 +7,7 @@
 ]]--
 
 --———————————— User Configs ————————————--
-_G.Limit_FrameRate = 1/60;
+_G.Limit_FrameRate = 1/25;
 _G.MaxViewDistance = 768;
 
 --———————————— Main ————————————--
